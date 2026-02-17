@@ -58,6 +58,6 @@ Hello, I'm Hugo, a software developer with experience in the development world s
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
   <a href="https://discord.gg/YR677KryAH">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-Discord-080c14?style=for-the-badge&logo=discord&logoColor=a78bfa">
+    <img alt="Discord Community" src="https://img.shields.io/badge/-Discord-080c14?style=for-the-badge&logo=discord&logoColor=a78bfa">
   </a>
 </div>
