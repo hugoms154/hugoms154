@@ -25,6 +25,7 @@ def sample_config():
             "email": "nyx@stellarlabs.dev",
             "linkedin": "nyxorion",
             "website": "https://nyxorion.dev",
+            "discord": "https://discord.gg/YR677KryAH",
         },
         "galaxy_arms": [
             {"name": "Frontend", "color": "dendrite_violet", "items": ["TypeScript", "React", "CSS"]},

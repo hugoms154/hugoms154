@@ -182,7 +182,7 @@ def _prompt_advanced(defaults: dict) -> dict:
 
     # Social links
     print("\n--- Social Links (leave blank to skip) ---")
-    social_fields = [("email", "Email:"), ("linkedin", "LinkedIn username:"), ("website", "Website URL:")]
+    social_fields = [("email", "Email:"), ("linkedin", "LinkedIn username:"), ("website", "Website URL:"), ("discord", "Discord Community:")]
     social = {}
     for key, prompt in social_fields:
         value = inquirer.text(
